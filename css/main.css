@@ -328,6 +328,16 @@ strong {
   -webkit-transform: translateX(7px);
   transform: translateX(7px);
 }
+
+.arrow-link-project {
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  font-size: 0.90rem;
+  display: inline-block;
+  background-color: transparent;
+  white-space: nowrap;
+}
+
 .small {
   font-family: Inconsolata, monospace;
   font-size: 0.85rem;
